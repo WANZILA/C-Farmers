@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">C-Farmers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash">Welcome</string>
+    <string name="login">Login</string>
+    <string name="login_details">Enter login Details</string>
+    <string name="login_text">Input Your credentials to login</string>
+    <string name="input_phone">Enter Phone Number</string>
+    <string name="input_password">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up_text">Don\'t Have An Account? Sign Up Here.</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="required">Feild required</string>
+    <string name="total_Farmers">Farmers: 20</string>
+    <string name="total_districts">Districts: 5</string>
+    <string name="total_land">Land HA:  5</string>
+    <string name="total_crops">crops: 4</string>
+    <string name="total_training">Trainings: 3</string>
+    <string name="total_attendance">Attendance</string>
+    <string name="total_group">Groups: 4</string>
+
+    //addFarmer
+    <string name="add_farmer">Add Farmer</string>
+    <string name="f_name">First Name</string>
+    <string name="m_name">Middle Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="u_name">User Name</string>
+    <string name="title">Title</string>
+    <string name="gender">Gender</string>
+    <string name="phone">Phone Number</string>
+    <string name="phone2">Phone Number</string>
+    <string name="district">District</string>
+    <string name="county">county</string>
+    <string name="s_county">Sub county</string>
+    <string name="parish">Parish</string>
+    <string name="village">Village</string>
+    <string name="dob">Date of birth</string>
+    <string name="password">Password</string>
+    <string name="c_password">Confirm Password</string>
+    <string name="group">group</string>
+    <!--    <string name=""></string>-->
+    <!--    <string name=""></string>-->
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+</resources>
